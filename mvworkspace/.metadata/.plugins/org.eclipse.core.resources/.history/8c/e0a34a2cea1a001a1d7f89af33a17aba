@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+a:hover{
+	color: white;
+}
+
+body{
+	background-color: green;
+}
+
+.jumbotron{
+	margin-top: 10px;
+}

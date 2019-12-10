@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"></link>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+<title>MotoView | Home</title>
+</head>
+<body>
+	<nav class="navbar navbar-dark bg-dark">
+	<a class="navbar-brand">
+		<i class="fa fa-motorcyle" aria-hidden="truue">MotoView</i>
+	</a>
+		<nav class="justify-content-end">
+			<a>Home</a> |
+			<a href="about.xhtml">About</a> |
+			<a>Contact</a>
+		</nav>
+	</nav>
+<h1>Hello welcome to MotoView.com</h1>
+</body>
+</html>

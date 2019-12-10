@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+a:hover{
+	color: white;
+	text-decoration: none;
+}
+
+body{
+	background-color: arcticwhite;
+}
+
+.jumbotron{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	background-image: url("res/bike.jpg")
+}
+#searchBar{
+	margin-left: 300px;
+}
+.searchBtn:hover{
+	background-color:white;
+	color: blue;
+}
+
+.info{
+	background-color: lightgrey;
+}

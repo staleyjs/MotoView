@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styles.css">
+    <script type="text/javascript" src="script.js"></script>
+    <title>MotoView | Home</title>
+</head>
+<body>
+    
+        <nav class="navbar navbar-dark bg-dark">
+            <a class="navbar-brand" href="">
+                <i class="fa fa-motorcycle" aria-hidden="true"> MotoView</i>
+            </a>
+            <nav class="justify-content-end">
+               <a href="index.html">Home </a>  |
+                <a href="about.html">About </a>  |
+                <a href="contact.html">Contact </a> 
+            </nav>      
+        </nav>
+    <div class="container">
+        <div class="jumbotron jumbotron-fluid">
+            <h1 class="display-4">Welcome to MotoView.com</h1>
+            <!--<img src="res/bike.jpg" alt="404-image-not-found" class="img-fluid"> -->
+            <div id="searchField">
+                <input type="search" name="" id="">
+                <button type="submit" class="btn btn-primary btn-sm searchBtn">Search</button>
+            </div> 
+        </div>
+    </div>
+    
+
+</body>
+</html>

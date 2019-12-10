@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link  rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"></link>
+<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"></link>
+<sript src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></sript>
+<link rel="stylesheet" href="mv.css"></link>
+<title>MotoView | Contact</title>
+</head>
+<body>
+	<nav class="navbar navbar-dark bg-dark">
+		<a class="navbar-brand">
+			<i class="fa fa-motorcyle" aria-hidden="truue">MotoView</i>
+		</a>
+			<nav class="justify-content-end">
+				<a href="index.xhtml">Home</a> |
+				<a href="about.xhtml">About</a> |
+				<a href="contact.xhtml">Contact</a>
+			</nav>
+	</nav>
+	<div class="container">
+		<div class="jumbotron">
+		<h1>Contact Information</h1>
+		</div>
+				<div class="info">
+			<div class="card-deck">
+			 <div class="card">
+			 <img class="card-img-top" src="assets/me.jpg" alt="Card image cap"></img>
+			 	<div class="card-body">
+			 	<h5 class="card-title">Jeavonte Staley</h5>
+			 	<p>I am 25 years old and I love listneing to music. I originally got accepted to UC for journalism.</p>
+			 	<p> Student Email: staleyjs@mail.uc.edu</p>
+			 	</div>
+			 </div>
+			</div>
+			
+			 <div class="card">
+			 <img class="card-img-top" src="#" alt="Card image cap"></img>
+			 	<div class="card-body">
+			 	<h5 class="card-title">Hayden Worrix</h5>
+			 	<p>Ready to graduate</p>
+			 	<p>Student Email: worrixhe@mail.uc.edu</p>
+			 	</div>
+			 </div>
+
+			 <div class="card">
+			 <img class="card-img-top" src="#" alt="Card image cap"></img>
+			 	<div class="card-body">
+			 	<h5 class="card-title">Aaron Zorzi</h5>
+			 	<p>Ready to graduate</p>
+			 	<p>Student Email: zorziam@mail.uc.edu</p>
+			 	</div>
+			 </div>
+			 
+			  <div class="card">
+			 <img class="card-img-top" src="https://i.ytimg.com/vi/OEGm7LXAN_c/maxresdefault.jpg" alt="Card image cap"></img>
+			 	<div class="card-body">
+			 	<h5 class="card-title">GitHub Repository</h5>
+			 	<p><a href="https://github.com/staleyjs/MotoView.git">MotoView</a></p>
+			 	</div>
+			 </div>
+	
+		</div>
+	</div>
+</body>
+</html>
